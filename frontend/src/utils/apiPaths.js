@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://localhost:4000';
+export const BASE_URL = 'https://buildresume-9lc8.onrender.com';
 
 //routes used for frontend
 export const API_PATHS = {
