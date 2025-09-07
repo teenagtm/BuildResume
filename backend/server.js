@@ -29,7 +29,7 @@ app.use(
   '/uploads',
   express.static(path.join(__dirname, '/uploads'), {
     setHeaders: (res, _path) => {
-      res.set('Access-Control-Allow-Origin', 'https://buildresume-frontend-bybi.onrender.com');
+      res.set('Access-Control-Allow-Origin', 'https://buildresume-frontend-tkm6.onrender.com');
     },
   })
 );
